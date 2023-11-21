@@ -15,17 +15,17 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94725881990'] //ur owner number
-global.ownername = "Sachintha Fernando" //ur owner name
+global.owner = ['221778884595'] //ur owner number
+global.ownername = "۞𝕿𝖍𝖊 𝕸❦" //ur owner name
 global.ytname = "YT: @sachibot26" //ur yt chanel name
 global.socialm = "GitHub: SACHIBOT26" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.ownernomer = "94725881990" //ur number
-global.premium = ['94725881990'] //ur premium number
+global.ownernomer = "221778884595" //ur number
+global.premium = ['221778884595'] //ur premium number
 global.botname = 'Lily-Ella-MD' //ur bot name
-global.linkz = "https://chat.whatsapp.com/Io1KFbF0v3MB4XADe7r2Y6" //your theme url which will be displayed on whatsapp
+global.linkz = "https://chat.whatsapp.com/C4TuD1PIBCYKXpCmngexA1" //your theme url which will be displayed on whatsapp
 global.websitex = "https://instagram.com/Sachi_ya_004" //ur website to be displayed
 global.botscript = 'https://github.com/SACHIBOT/Lily-Ella-MD' //script link
 global.themeemoji = "🦄" //ur theme emoji
